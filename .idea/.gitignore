@@ -5,6 +5,7 @@
 /project-template.xml
 /modules.xml
 /misc.xml
+/out/
 
 .mtj.tmp/
 *.class
