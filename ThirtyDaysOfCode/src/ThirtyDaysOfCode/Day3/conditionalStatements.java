@@ -1,4 +1,4 @@
-package ThirtyDaysOfCode.ConditionalStatements;
+package ThirtyDaysOfCode.Day3;
 
 import java.io.BufferedReader;
 import java.io.IOException;
