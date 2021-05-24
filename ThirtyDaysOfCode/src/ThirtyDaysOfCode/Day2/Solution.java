@@ -1,4 +1,4 @@
-package ThirtyDaysOfCode.Operators;
+package ThirtyDaysOfCode.Day2;
 
 import java.io.BufferedReader;
 import java.io.IOException;

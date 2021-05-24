@@ -1,8 +1,4 @@
-package ThirtyDaysOfCode.Operators;
-
-import java.io.BufferedReader;
-import java.io.IOException;
-import java.io.InputStreamReader;
+package ThirtyDaysOfCode.Day2;
 
 public class Operators {
     /*
