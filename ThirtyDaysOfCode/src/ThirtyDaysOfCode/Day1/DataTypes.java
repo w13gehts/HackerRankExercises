@@ -1,4 +1,4 @@
-package ThirtyDaysOfCode.DataTypes;
+package ThirtyDaysOfCode.Day1;
 import java.util.Scanner;
 
 public class DataTypes {
